@@ -1,3 +1,4 @@
 [submodule "script"]
 	path = script
 	url = git@github.com:DevFaeez/belajar-git-submodule.git
+	branch = release
